@@ -1,4 +1,4 @@
-# ErgoDox EZ Default Configuration
+# ErgoDox EZ Default Configuration by Mitz
 
 ## Changelog
 
